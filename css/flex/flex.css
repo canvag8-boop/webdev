@@ -1,0 +1,18 @@
+.container {
+			display: flex;
+			gap: 12px;
+			padding: 16px;
+			border: 2px solid #040600;
+            background-color: rgb(6, 144, 244);
+		}
+
+		.box {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			width: 100px;
+			height: 100px;
+			background-color: rgb(235, 224, 8);
+			color: rgb(233, 33, 7);
+			font: bold 24px Arial, sans-serif;
+		}
